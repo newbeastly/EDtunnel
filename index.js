@@ -1396,6 +1396,8 @@ function GenSub(userID_path, hostname, proxyIP) {
 		'www.shopify.com',
 		'www.whatismyip.com',
 		'www.ipget.net',
+		'netproxy.oneshot.cfd',
+		'yxip.oneshot.cfd',
 		// 高频率更新
 		// 'speed.marisalnc.com',           // 1000ip/3min
 		'freeyx.cloudflare88.eu.org',    // 1000ip/3min
